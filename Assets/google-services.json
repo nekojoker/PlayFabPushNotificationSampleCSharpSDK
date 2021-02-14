@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41476044702",
+    "firebase_url": "https://playfabtest-c0d7d.firebaseio.com",
+    "project_id": "playfabtest-c0d7d",
+    "storage_bucket": "playfabtest-c0d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41476044702:android:3e087dd89368137e27488f",
+        "android_client_info": {
+          "package_name": "com.nekojoker.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41476044702-eti8se6ptri1uia2i77942vnivahcbqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zYNi61EtODbHxRMD6BYGAKERryMS-Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41476044702-eti8se6ptri1uia2i77942vnivahcbqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
